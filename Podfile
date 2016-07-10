@@ -4,5 +4,5 @@ platform :ios, "6.0"
 pod "YYKit"
 pod "AFNetworking"
 
-target :"YYKitDemo" do
+target :"AnimationImagesDemo" do
 end
