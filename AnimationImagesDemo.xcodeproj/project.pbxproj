@@ -40,6 +40,8 @@
 		E491C3771D3219AC007E7F00 /* pickView23.png in Resources */ = {isa = PBXBuildFile; fileRef = E491C3531D3219AC007E7F00 /* pickView23.png */; };
 		E491C3781D3219AC007E7F00 /* pickView使用.gif in Resources */ = {isa = PBXBuildFile; fileRef = E491C3541D3219AC007E7F00 /* pickView使用.gif */; };
 		E491C3791D3219AC007E7F00 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E491C3561D3219AC007E7F00 /* ViewController.m */; };
+		E491C37D1D321E6D007E7F00 /* libAFNetworking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E491C37C1D321E6D007E7F00 /* libAFNetworking.a */; };
+		E491C37F1D321E71007E7F00 /* libYYKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E491C37E1D321E71007E7F00 /* libYYKit.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +82,8 @@
 		E491C3541D3219AC007E7F00 /* pickView使用.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "pickView使用.gif"; sourceTree = "<group>"; };
 		E491C3551D3219AC007E7F00 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E491C3561D3219AC007E7F00 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E491C37C1D321E6D007E7F00 /* libAFNetworking.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libAFNetworking.a; path = "../../../../Library/Developer/Xcode/DerivedData/AnimationImagesDemo-awetkuflvnxfodbxjfgtsawubsyz/Build/Products/Debug-iphonesimulator/AFNetworking/libAFNetworking.a"; sourceTree = "<group>"; };
+		E491C37E1D321E71007E7F00 /* libYYKit.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libYYKit.a; path = "../../../../Library/Developer/Xcode/DerivedData/AnimationImagesDemo-awetkuflvnxfodbxjfgtsawubsyz/Build/Products/Debug-iphonesimulator/YYKit/libYYKit.a"; sourceTree = "<group>"; };
 		E4ADC3181D26633F0062564A /* AnimationImagesDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationImagesDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -88,6 +92,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E491C37F1D321E71007E7F00 /* libYYKit.a in Frameworks */,
+				E491C37D1D321E6D007E7F00 /* libAFNetworking.a in Frameworks */,
 				34A92D06EC6EFDEF4AA4747B /* libPods-YYKitDemo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -98,6 +104,8 @@
 		AC317CE79CADB981C37C741F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E491C37E1D321E71007E7F00 /* libYYKit.a */,
+				E491C37C1D321E6D007E7F00 /* libAFNetworking.a */,
 				2BF2ECF50CB975D3E65E4678 /* libPods-YYKitDemo.a */,
 			);
 			name = Frameworks;
