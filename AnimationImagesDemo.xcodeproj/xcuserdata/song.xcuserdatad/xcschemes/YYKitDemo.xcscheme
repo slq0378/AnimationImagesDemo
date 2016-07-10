@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4ADC3171D26633F0062564A"
-               BuildableName = "YYKitDemo.app"
-               BlueprintName = "YYKitDemo"
-               ReferencedContainer = "container:YYKitDemo.xcodeproj">
+               BuildableName = "AnimationImagesDemo.app"
+               BlueprintName = "AnimationImagesDemo"
+               ReferencedContainer = "container:AnimationImagesDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4ADC3171D26633F0062564A"
-            BuildableName = "YYKitDemo.app"
-            BlueprintName = "YYKitDemo"
-            ReferencedContainer = "container:YYKitDemo.xcodeproj">
+            BuildableName = "AnimationImagesDemo.app"
+            BlueprintName = "AnimationImagesDemo"
+            ReferencedContainer = "container:AnimationImagesDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4ADC3171D26633F0062564A"
-            BuildableName = "YYKitDemo.app"
-            BlueprintName = "YYKitDemo"
-            ReferencedContainer = "container:YYKitDemo.xcodeproj">
+            BuildableName = "AnimationImagesDemo.app"
+            BlueprintName = "AnimationImagesDemo"
+            ReferencedContainer = "container:AnimationImagesDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4ADC3171D26633F0062564A"
-            BuildableName = "YYKitDemo.app"
-            BlueprintName = "YYKitDemo"
-            ReferencedContainer = "container:YYKitDemo.xcodeproj">
+            BuildableName = "AnimationImagesDemo.app"
+            BlueprintName = "AnimationImagesDemo"
+            ReferencedContainer = "container:AnimationImagesDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
